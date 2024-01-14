@@ -12,6 +12,8 @@ This is a ✨ _special_ ✨ Profile because it's my GitHub profile.
 - 😄 Pronouns: Mr/sir/he
 - ⚡ Fun fact: It' funny because its `!~-1` **!**
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=reinerBa&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 [![user:6355502's ranking for vue.js](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/vue.js/6355502?theme=cobalt)](https://stackoverflow-readme-profile.vercel.app/tags-league/vue.js/users/6355502)
 [![user:6355502's ranking for javascript](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/javascript/6355502?theme=cobalt)](https://stackoverflow-readme-profile.vercel.app/tags-league/javascript/users/6355502)
 [![user:6355502's ranking for c%23](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/c%23/6355502?theme=cobalt)](https://stackoverflow-readme-profile.vercel.app/tags-league/c%23/users/6355502)
